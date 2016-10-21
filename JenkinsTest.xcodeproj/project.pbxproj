@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					0763F93E1DB9BA8B007C9E12 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = S9844GY438;
 					};
 				};
 			};
@@ -268,6 +269,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.eeesys.dept;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "a8943842-7283-4123-980e-f9c1f0add05c";
 			};
 			name = Debug;
 		};
@@ -280,6 +282,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.eeesys.dept;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "a8943842-7283-4123-980e-f9c1f0add05c";
 			};
 			name = Release;
 		};
